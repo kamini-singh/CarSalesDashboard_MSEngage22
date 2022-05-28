@@ -11,7 +11,7 @@ def load_view():
    st.subheader("Our website is one-stop destination to obtain all the industry insights!")
    
   #loading the dataset.
-   car = pd.read_csv('CarBuyers.csv')
+   car = pd.read_csv('dataset/CarBuyers.csv')
 
    brand_list = ['Alfa-Romeo',
    'Aston-Martin',
