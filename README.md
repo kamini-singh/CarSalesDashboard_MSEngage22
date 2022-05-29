@@ -3,7 +3,7 @@
  <p align="center"> 
  <a target="_blank" href="https://carsales-dashboard.herokuapp.com/">Link to the Website </a>
     ||
- <a target="_blank" href="#"> Video Demo</a>
+ <a target="_blank" href="https://youtu.be/2wyolI1kRBo"> Video Demo</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
