@@ -59,7 +59,7 @@ Start the server
 
 - Visualizing Brand-wise model popularity and Customer segmentation
 
-![Screenshot (113)](https://user-images.githubusercontent.com/78756272/170863723-c77a6f23-1b8f-40ad-b840-3ba40f24038f.png)
+![Screenshot (115)](https://user-images.githubusercontent.com/78756272/170864134-80737185-21a3-4a1b-ab84-0240685e436d.png)
 ![Screenshot (116)](https://user-images.githubusercontent.com/78756272/170863731-f604b6dc-cab2-4f63-8bc8-578dbe73ab60.png)
 
 
