@@ -100,7 +100,7 @@ def load_view():
      #4. Power
       power = st.number_input(label='Enter the Power of the Car in BHP.', help='Example: 85')
      #5. Fuel Type
-      fuel_type = st.selectbox(label='Enter the Engine type(fuel)', options=fuel_type_list, help='Example: Petrol')
+      fuel_type = st.selectbox(label='Enter the Fuel Type', options=fuel_type_list, help='Example: Petrol')
       fuel_type = fuel_type_list.index(fuel_type)
 
 
