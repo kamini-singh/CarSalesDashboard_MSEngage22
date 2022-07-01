@@ -76,7 +76,7 @@ Start the server
 │   ├── Cars_cleaned_data.csv
 ├── pages
 │   ├── home_page.py
-│   ├── car_features.py![Screenshot (114)](https://user-images.githubusercontent.com/78756272/170863725-bb470f40-6d82-477c-96bf-418e8b632e42.png)
+│   ├── car_features.py
 
 │   ├── customers.py
 ├── Utilities
